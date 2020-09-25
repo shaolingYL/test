@@ -1,5 +1,5 @@
 public class Hello{
   public static void main(Stirng[] args){
-    System.out.println("hello")
+    System.out.println("hello");
   }
 }
